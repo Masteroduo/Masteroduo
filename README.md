@@ -1,4 +1,4 @@
-###  ~~Hi there 👋~~ Kill Yourself, you are hopeless
+###  Hello 
 
 Welcome to my repo, here you can find things my dotfiles and other things. Here are some few things about me
 
